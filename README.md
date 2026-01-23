@@ -316,8 +316,4 @@ TypeScript transforms JavaScript from a language where errors hide until runtime
 - Easier collaboration on large codebases
 - More maintainable code
 
-Start small: add types to function parameters, define prop types for components, and use enums for string constants. As you grow comfortable, explore advanced features like generics, utility types, and conditional types.
-
-## The key insight: 
-
-**TypeScript isn't about being strict for strictness's sake**. It's about making your development experience better and your code more reliable. Every type annotation is a contract that helps both you and your tools understand your code's intent.
+Start small: add types to function parameters, define prop types for components, and use enums for string constants. As you grow comfortable, explore advanced features like generics, utility types, and conditional types
